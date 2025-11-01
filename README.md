@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
 </p>
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
