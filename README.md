@@ -11,8 +11,9 @@
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
 </p>
+#
 
-# 🌟 About Me  
+### 🌟 About Me  
 
 - 🔭 Currently working on **MERN Stack Projects**  
 - 🌱 Learning **Node.js** & **React Native**  
