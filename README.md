@@ -2,7 +2,18 @@
 
 ### 💻 Front-End Developer | 🚀 MERN Stack Enthusiast  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+</p>
 
 ### 🌟 About Me  
 
@@ -15,7 +26,9 @@
 - ⚡ Fun fact: *Introvert but talks a lot :>*  
 - 📄 Know about my experiences → [**My Resume**](https://www.canva.com/design/DAGW145ycTI/fkHPh0X_1bm8RQeuHNciOA/edit)  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%" height="6px"/>
+</p>
 
 ### 🌐 Connect With Me  
 
@@ -34,7 +47,9 @@
   </a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/gradient.png" width="100%" height="6px"/>
+</p>
 
 ### 🛠️ Languages & Tools  
 
@@ -42,7 +57,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,java,cpp,c,bootstrap,tailwind,materialui,figma,git&theme=dark" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+</p>
 
 ### 🧠 Currently Exploring  
 
@@ -50,7 +67,9 @@
 - ☁️ Deploying fullstack apps on **Vercel & Render**  
 - 🎨 Improving UI design using **Figma**  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%" height="6px"/>
+</p>
 
 ### 📊 GitHub Stats  
 
@@ -59,13 +78,17 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen30&theme=tokyonight" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/gradient.png" width="100%" height="6px"/>
+</p>
 
 ### 🏷️ Tech Tags  
 
 `#React` `#NodeJS` `#MongoDB` `#NextJS` `#Redux`  
 `#TailwindCSS` `#MaterialUI` `#TypeScript` `#Figma` `#FullStack`  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+</p>
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
