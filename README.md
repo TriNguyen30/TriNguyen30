@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Nguyễn Công Trí**  
 
-### 💻 Front-End Developer | 🚀 MERN Stack Enthusiast  
+# 💻 Front-End Developer | 🚀 MERN Stack Enthusiast  
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
 </p>
-#
 
 ### 🌟 About Me  
 
