@@ -24,7 +24,7 @@
 - 📄 Know about my experiences → [**My Resume**](https://www.canva.com/design/DAGW145ycTI/fkHPh0X_1bm8RQeuHNciOA/edit)  
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </p>
 
 ### 🌐 Connect With Me  
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </p>
 
 ### 🛠️ Languages & Tools  
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </p>
 
 ### 🧠 Currently Exploring  
@@ -65,7 +65,7 @@
 - 🎨 Improving UI design using **Figma**  
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </p>
 
 ### 📊 GitHub Stats  
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </p>
 
 ### 🏷️ Tech Tags  
@@ -85,7 +85,7 @@
 `#TailwindCSS` `#MaterialUI` `#TypeScript` `#Figma` `#FullStack`  
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </p>
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
