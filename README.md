@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
 </p>
 
----
 
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
