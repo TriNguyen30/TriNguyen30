@@ -2,7 +2,7 @@
 
 ### 💻 Front-End Developer | 🚀 MERN Stack Enthusiast  
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🌟 About Me  
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact: *Introvert but talks a lot :>*  
 - 📄 Know about my experiences → [**My Resume**](https://www.canva.com/design/DAGW145ycTI/fkHPh0X_1bm8RQeuHNciOA/edit)  
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🌐 Connect With Me  
 
@@ -34,15 +34,15 @@
   </a>
 </p>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,java,cpp,c,bootstrap,tailwind,materialui,figma,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,java,cpp,c,bootstrap,tailwind,materialui,figma,git&theme=dark" />
 </p>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🧠 Currently Exploring  
 
@@ -50,7 +50,7 @@
 - ☁️ Deploying fullstack apps on **Vercel & Render**  
 - 🎨 Improving UI design using **Figma**  
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 📊 GitHub Stats  
 
@@ -59,13 +59,13 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen30&theme=tokyonight" />
 </p>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🏷️ Tech Tags  
 
 `#React` `#NodeJS` `#MongoDB` `#NextJS` `#Redux`  
 `#TailwindCSS` `#MaterialUI` `#TypeScript` `#Figma` `#FullStack`  
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
