@@ -2,7 +2,7 @@
 
 ### FE Developer
 
-- 🔭 I'm currently working on **MERN Stack Project**
+###- 🔭 I'm currently working on **MERN Stack Project**
 
 - 🌱 I'm currently learning **NodeJS and React Native**
 
