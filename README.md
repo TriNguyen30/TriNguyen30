@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </p>
 
 ### 🌟 About Me  
