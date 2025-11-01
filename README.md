@@ -65,7 +65,7 @@
 - 🎨 Improving UI design using **Figma**  
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%" height="6px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
 </p>
 
 ### 📊 GitHub Stats  
