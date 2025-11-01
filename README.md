@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/TriNguyen30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TriNguyen30" height="30" width="40" /></a>
-<a href="https://fb.com/Trí Nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Trí Nguyễn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/trinc304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Trí Nguyễn" height="30" width="40" /></a>
 <a href="https://instagram.com/nct__304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nct__304" height="30" width="40" /></a>
 <a href="https://youtube.com/@TriNguyen-wx6ez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@TriNguyen-wx6ez" height="30" width="40" /></a>
 </p>
