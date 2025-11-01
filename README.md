@@ -42,6 +42,9 @@
   <a href="https://youtube.com/@TriNguyen-wx6ez" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+   <a href="https://zalo.me/0332088304" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
