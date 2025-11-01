@@ -72,11 +72,11 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TriNguyen30&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen30&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen30&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="6px"/>
 </p>
 
 ### 🏷️ Tech Tags  
