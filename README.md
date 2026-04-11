@@ -19,7 +19,7 @@
 - 👯 Open to collaborate on **Back-End** & **Fullstack** projects  
 - 🤝 Looking for help with **UI/UX & Figma Design**  
 - 💬 Ask me about **React, Node.js, or JavaScript-related topics**  
-- 📫 Reach me at **[trinc3042@gmail.com](mailto:trinc3042@gmail.com)**  
+- 📫 Reach me at **[trinc304@gmail.com](mailto:trinc304@gmail.com)**  
 - ⚡ Fun fact: *Introvert but talks a lot :>*  
 - 📄 Know about my experiences → [**My Resume**](https://www.canva.com/design/DAGW145ycTI/fkHPh0X_1bm8RQeuHNciOA/edit)  
 
