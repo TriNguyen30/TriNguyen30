@@ -21,7 +21,8 @@
 - 💬 Ask me about **React, Node.js, or JavaScript-related topics**  
 - 📫 Reach me at **[trinc304@gmail.com](mailto:trinc304@gmail.com)**  
 - ⚡ Fun fact: *Introvert but talks a lot :>*  
-- 📄 Know about my experiences → [**My Resume**](https://drive.google.com/file/d/1dCUkHftClPwkuRbQcarvz0U92PLrf8W_/view?usp=sharing)  
+- 📄 Know about my experiences → [**My Resume**](https://drive.google.com/file/d/1dCUkHftClPwkuRbQcarvz0U92PLrf8W_/view?usp=sharing)
+- 🌐 Visit my portfolio: [**My Portfolio**](https://henryportfoliov1.vercel.app/) 
 
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="2px"/>
